@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/akhil_vashu" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="akhil_vashu" /></a>
 <a href="https://linkedin.com/in/akhil-kumar-902760253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhil-kumar-902760253" height="30" width="40" /></a>
-<a href="telegram.me.vihanraghu" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Vihanraghu" /></a>
+<a href="telegram.me.vihanraghu" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
