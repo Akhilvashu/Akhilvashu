@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Akhil Kumar</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-![something](https://gitwar.herokuapp.com/badge?username=akhilvashu&style=for-the-badge)
+![Something](https://komarev.com/ghpvc/?username=akhillvashu&style=for-the-badge)
 
 - 🌱 I’m currently learning **Android, Machine Learning and AI**
 - 👯 I’m looking to collaborate on **Open source Projects**
