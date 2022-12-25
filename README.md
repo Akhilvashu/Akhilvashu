@@ -1,5 +1,5 @@
 ![something](https://raw.githubusercontent.com/Akhilvashu/Akhilvashu/main/github%20banner.jpg)
-<a align="right" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Akhil+Kumar" alt="Typing SVG" /></a>
+<p href="https://git.io/typing-svg"><img align="centre" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Akhil+Kumar" alt="Typing SVG" /></p>
 <h3 align="center">A passionate developer from India </h3>
 
 ![Something](https://komarev.com/ghpvc/?username=akhillvashu&style=for-the-badge)
