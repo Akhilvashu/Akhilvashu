@@ -26,7 +26,7 @@
 -----
 <h2><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="31" width="31"<h2>My leetcode stats:</h2>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Akhilvashu&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Akhilvashu&theme=dark)](https://leetcode/akhilvashu)
 
 -----
 <h2><img align="left" src="https://git-scm.com/images/logos/downloads/Git-Icon-White.svg" height="31" width="31"<h2>My GitHub stats:</h2>
