@@ -1,14 +1,13 @@
 ![something](https://raw.githubusercontent.com/Akhilvashu/Akhilvashu/test/github-header-image.png)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=+++Hi+%F0%9F%91%8B%2C+I'm+Akhil+Kumar" alt="Typing SVG" /></a>
-<h3 align="center">A passionate developer from India </h3>
 
+
+
+     - 👋 Hi! I am currently pursuing **Engineering from Delhi,India**
+     - 🌱 I’m currently learning **Android, Machine Learning and AI**
+     - 👯 I’m looking to collaborate on **Open source Projects**
+     - 📫 How to reach me **akhilkumar1305@gmail.com**
+     - ⚡ Fun fact **I love Anime and Songs**
 ![Something](https://komarev.com/ghpvc/?username=akhillvashu&style=for-the-badge)
-
-- 🌱 I’m currently learning **Android, Machine Learning and AI**
-- 👯 I’m looking to collaborate on **Open source Projects**
-- 📫 How to reach me **akhilkumar1305@gmail.com**
-- ⚡ Fun fact **I love Anime and Songs**
-
 -----
 
 <h3 align="left">📫   How to reach me:</h3>
@@ -30,4 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilvashu&show_icons=true&theme=dark&locale=en" alt="akhilvashu" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Akhilvashu&theme=dark)](https://git.io/streak-stats)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31j6grlk4bu2g6vlij6kuwdm2vje&width={300}&count={4})
 
