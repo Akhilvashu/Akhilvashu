@@ -1,13 +1,16 @@
+<h2><img align="right" src="https://komarev.com/ghpvc/?username=akhillvashu&style=for-the-badge" ></h2>
+
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=akhilvashu&data=followers,repositories,stars,commits&theme=serika)](https://github.com/Jurredr/github-widgetbox)
 
 
 
-     - 👋 Hi! I am currently pursuing Engineering from Delhi,India
-     - 🌱 I’m currently learning Android, Machine Learning and AI
-     - 👯 I’m looking to collaborate on Open source Projects
-     - 📫 How to reach me akhilkumar1305@gmail.com
-     - ⚡ Fun fact I love Anime and Songs and Philosphies
-
+     - 👋 Hi! Myself Akhil ,I'm currently pursuing Engineering from Delhi,India
+     - 🌱 I’m currently learning Android, Machine Learning and AI 
+     - 👯 I’m looking to collaborate on Open source Projects if you have any suggestions then contact me
+     - ❄️ Ask me about philosophy and technology
+     - ⚡ Fun fact I am melophile
+     - 😄 Pronouns: He / Him
+     - 📌 don't forget to greet me first as I am not a part of nohello.me
 -----
 
 <h2 align="left">📫   How to reach me:</h2>
