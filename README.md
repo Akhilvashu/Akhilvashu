@@ -1,5 +1,3 @@
-<h2><img align="right" src="https://komarev.com/ghpvc/?username=akhillvashu&style=for-the-badge" ></h2>
-
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=akhilvashu&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Jurredr/github-widgetbox)
 
 
