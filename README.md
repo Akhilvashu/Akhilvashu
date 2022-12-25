@@ -1,4 +1,4 @@
-![something](https://raw.githubusercontent.com/Akhilvashu/Akhilvashu/main/github%20banner.jpg)
+![something](https://raw.githubusercontent.com/Akhilvashu/Akhilvashu/test/github-header-image.png)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=+++Hi+%F0%9F%91%8B%2C+I'm+Akhil+Kumar" alt="Typing SVG" /></a>
 <h3 align="center">A passionate developer from India </h3>
 
