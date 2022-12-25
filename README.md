@@ -1,5 +1,3 @@
-![Something](https://komarev.com/ghpvc/?username=akhillvashu&style=for-the-badge)
-
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=akhilvashu&data=followers,repositories,stars,commits&theme=serika)](https://github.com/Jurredr/github-widgetbox)
 
 
