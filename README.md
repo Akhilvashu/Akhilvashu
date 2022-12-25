@@ -30,5 +30,5 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Akhilvashu&theme=dark)](https://git.io/streak-stats)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31j6grlk4bu2g6vlij6kuwdm2vje&width={300}&count={4})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31j6grlk4bu2g6vlij6kuwdm2vje)
 
