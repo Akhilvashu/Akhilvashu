@@ -21,7 +21,7 @@
 
 <h2 align="left">🛠️   Languages and tools that I use:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,java,py,c,cpp,css,html,js,idea,vs,heroku,linux,git,github,docker,,gitlab,mongodb,mysql,redis,react,stackoverflow,vim&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,java,py,c,cpp,css,html,js,idea,vscode,heroku,linux,git,github,docker,gitlab,mongodb,mysql,redis,react,stackoverflow,vim&theme=dark)](https://skillicons.dev)
 
 -----
 <h2><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="31" width="31"<h2>My leetcode stats:</h2>
