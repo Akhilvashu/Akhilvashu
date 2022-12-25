@@ -29,5 +29,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilvashu&show_icons=true&locale=en" alt="akhilvashu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilvashu&" alt="akhilvashu" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Akhilvashu&theme=dark)](https://git.io/streak-stats)
 
