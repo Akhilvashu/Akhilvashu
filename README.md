@@ -21,7 +21,7 @@
 
 <h3 align="left">🛠️   Languages and tools that I use:</h3>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=aws,java,py,c,cpp,css,html,js,idea,vs,heroku,linux,git,github,docker,,gitlab,mongodb,mysql,redis,react,stackoverflow,vim&theme=dark)](https://skillicons.dev)
 
 -----
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Akhilvashu&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
