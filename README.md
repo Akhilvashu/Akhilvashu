@@ -1,5 +1,7 @@
 ![something](https://raw.githubusercontent.com/Akhilvashu/Akhilvashu/test/github-header-image.png)
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=akhilvashu&data=followers,repositories,stars,commits&theme=serika)](https://github.com/Jurredr/github-widgetbox)
+
 
 
      - 👋 Hi! I am currently pursuing **Engineering from Delhi,India**
