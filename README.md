@@ -15,8 +15,11 @@
 <h2 align="left">📫   How to reach me:</h2>
 <p align="left">
 <a href="https://twitter.com/akhil_vashu" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="akhil_vashu" /></a>
-<a href="https://linkedin.com/in/akhil-kumar-902760253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhil-kumar-902760253" height="30" width="40" /></a>
-<a href="https://t.me/Vihanraghu" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="vihanraghu" /></a>
+<a href="https://linkedin.com/in/akhil-kumar-902760253" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="akhil-kumar-902760253" /></a>
+<a href="https://t.me/Vihanraghu" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="vihanraghu" /></a> 
+<a href="akhilkumar1305@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="akhil_vashu" /></a>
+<a href="www.leetcode.com/akhilvashu" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+<a href="www.leetcode.com/akhilvashu" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <h2 align="left">🛠️   Languages and tools that I use:</h2>
