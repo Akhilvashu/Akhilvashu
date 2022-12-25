@@ -19,7 +19,8 @@
 <a href="https://t.me/Vihanraghu" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="vihanraghu" /></a> 
 <a href="akhilkumar1305@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="akhil_vashu" /></a>
 <a href="www.leetcode.com/akhilvashu" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
-<a href="www.leetcode.com/akhilvashu" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="www.github.com/akhilvashu" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://open.spotify.com/user/31j6grlk4bu2g6vlij6kuwdm2vje?si=c63276a5316d4958" target="blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
 </p>
 
 <h2 align="left">🛠️   Languages and tools that I use:</h2>
