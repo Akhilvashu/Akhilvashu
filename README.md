@@ -25,9 +25,9 @@
 -----
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31j6grlk4bu2g6vlij6kuwdm2vje&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31j6grlk4bu2g6vlij6kuwdm2vje&redirect=true)
 -----
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilvashu&show_icons=true&locale=en&layout=compact" alt="akhilvashu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilvashu&show_icons=true&theme=dark&locale=en&layout=compact" alt="akhilvashu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilvashu&show_icons=true&locale=en" alt="akhilvashu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilvashu&show_icons=true&theme=dark&locale=en" alt="akhilvashu" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Akhilvashu&theme=dark)](https://git.io/streak-stats)
 
