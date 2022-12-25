@@ -24,17 +24,17 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,java,py,c,cpp,css,html,js,idea,vs,heroku,linux,git,github,docker,,gitlab,mongodb,mysql,redis,react,stackoverflow,vim&theme=dark)](https://skillicons.dev)
 
 -----
-<h2><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="31" width="31"<h2>My leetcode stat:</h2>
+<h2><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="31" width="31"<h2>My leetcode stats:</h2>
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Akhilvashu&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 -----
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilvashu&show_icons=true&theme=dark&locale=en&layout=compact" alt="akhilvashu" /></p>
+<h2><img align="left" src="https://git-scm.com/images/logos/downloads/Git-Icon-White.svg" height="31" width="31"<h2>My GitHub stats:</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilvashu&show_icons=true&theme=dark&locale=en&layout=compact" alt="akhilvashu" height="220" width="300"/></p> <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=akhilvashu&show_icons=true&theme=dark&locale=en" alt="akhilvashu" height="230" width="350"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilvashu&show_icons=true&theme=dark&locale=en" alt="akhilvashu" /></p>
+<p>&nbsp;<img align="centre" src="https://github-readme-streak-stats.herokuapp.com?user=Akhilvashu&theme=dark" alt="akhilvashu" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Akhilvashu&theme=dark)](https://git.io/streak-stats)
 ------
-<h2><img align="left" src="https://user-images.githubusercontent.com/115654522/209455279-87ddcab0-23bd-4fb0-a4ba-939ed6a5b3c6.png" height="31" width="31"<h2>My spotify stat:</h2> 
+<h2><img align="left" src="https://user-images.githubusercontent.com/115654522/209455279-87ddcab0-23bd-4fb0-a4ba-939ed6a5b3c6.png" height="31" width="31"<h2>My spotify stats:</h2> 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31j6grlk4bu2g6vlij6kuwdm2vje&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31j6grlk4bu2g6vlij6kuwdm2vje&redirect=true) ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31j6grlk4bu2g6vlij6kuwdm2vje&count=2&width=300)
