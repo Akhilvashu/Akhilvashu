@@ -1,6 +1,6 @@
 <h2><img align="right" src="https://komarev.com/ghpvc/?username=akhillvashu&style=for-the-badge" ></h2>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=akhilvashu&data=followers,repositories,stars,commits&theme=serika)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=akhilvashu&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Jurredr/github-widgetbox)
 
 
 
@@ -31,7 +31,7 @@
 -----
 <h2><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="31" width="31"<h2>My leetcode stats:</h2>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Akhilvashu&theme=dark)](https://leetcode/akhilvashu)
+[![LeetCode stats](https://leetcard.jacoblin.cool/Akhilvashu?theme=dark&font=Kotta%20One&ext=heatmap&hide=ranking)](https://leetcode/akhilvashu)
 
 -----
 <h2><img align="left" src="https://git-scm.com/images/logos/downloads/Git-Icon-White.svg" height="31" width="31"<h2>My GitHub stats:</h2>
