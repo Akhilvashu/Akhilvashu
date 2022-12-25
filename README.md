@@ -1,6 +1,6 @@
 ![something](https://raw.githubusercontent.com/Akhilvashu/Akhilvashu/main/github%20banner.jpg)
-<h1 align="center">Hi 👋, I'm Akhil Kumar</h1>
-<h3 align="center">A passionate developer from India</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Akhil+Kumar)](https://git.io/typing-svg)
+<h3 align="center">A passionate developer from India </h3>
 
 ![Something](https://komarev.com/ghpvc/?username=akhillvashu&style=for-the-badge)
 
