@@ -35,9 +35,9 @@
 
 -----
 <h2><img align="left" src="https://git-scm.com/images/logos/downloads/Git-Icon-White.svg" height="31" width="31"<h2>My GitHub stats:</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilvashu&show_icons=true&theme=dark&locale=en&layout=compact&include_all_commits=true" alt="akhilvashu" height="220" width="300"/></p> <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=akhilvashu&show_icons=true&theme=dark&locale=en&include_all_commits=true" alt="akhilvashu" height="230" width="350"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilvashu&show_icons=true&theme=dark&locale=en&layout=compact&include_all_commits=true&count_private=true" alt="akhilvashu" height="220" width="300"/></p> <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=akhilvashu&show_icons=true&theme=dark&locale=en&include_all_commits=true&count_private=true" alt="akhilvashu" height="230" width="350"/></p>
 
-<p>&nbsp;<img align="centre" src="https://github-readme-streak-stats.herokuapp.com?user=Akhilvashu&theme=dark" alt="akhilvashu" /></p>
+<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com?user=Akhilvashu&theme=dark" alt="akhilvashu" /></p>
 
 ------
 <h2><img align="left" src="https://user-images.githubusercontent.com/115654522/209455279-87ddcab0-23bd-4fb0-a4ba-939ed6a5b3c6.png" height="31" width="31"<h2>My spotify stats:</h2> 
